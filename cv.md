@@ -4,6 +4,7 @@
 * Telegram: [@macsique](https://t.me/macsique)
 * E-mail: maxim.alyosh@gmail.com
 * GitHub: [maxalesh](https://github.com/maxalesh)
+* Discord: macsique
 
 # About me
 I am a developer from Yekaterinburg, but temporarily live in Astana. I'm studying at the 4th year of UrFU University. I first tried frontend development in my second year, now I decided to go deeper into this direction. In the future I want to choose Angular framework
