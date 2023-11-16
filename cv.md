@@ -35,7 +35,7 @@ function strCount(obj){
 
 1. Emit library / JavaScript [JS-9](https://github.com/maxalesh/JS-9)
 2. PixelArt refactoring / Python [mozabrick](https://github.com/maxalesh/refactoring)
-3. Digital agency landing (**in progress**) / HTML, CSS [Enver](https://github.com/maxalesh/digital-agency-enver-landing)
+3. Digital agency landing (**in progress**) / HTML, CSS [Enver](https://maxalesh.github.io/digital-agency-enver-landing/)
 
 # Education
 
